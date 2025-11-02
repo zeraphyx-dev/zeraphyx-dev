@@ -1,637 +1,1083 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ZERAPHYX&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Digital%20Craftsman%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20UI/UX&descAlignY=55&descAlign=50&descSize=20"/>
+<!-- HERO SECTION WITH VIDEO LOOP -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,11,20,24&height=450&section=header&text=ZERAPHYX%20&fontSize=120&fontColor=00d9ff&animation=twinkling&fontAlignY=35&desc=PROFESSIONAL%20SOFTWARE%20DEVELOPER%20%E2%80%A2%20SYSTEM%20ARCHITECT%20%E2%80%A2%20DIGITAL%20CRAFTSMAN&descAlignY=55&descSize=22&descColor=ffffff&stroke=00d9ff&strokeWidth=1"/>
 
-<!-- ANIMATED PARTICLE DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%E2%9A%A1+Building+Tomorrow%2C+One+Line+At+A+Time;%F0%9F%8C%90+Crafting+Digital+Products+That+Matter;%F0%9F%92%BB+Code+%E2%80%A2+Design+%E2%80%A2+Innovation+%E2%80%A2+Impact" alt="Typing Animation" />
-</a>
-
-<!-- PROFILE VIEWS & BADGES -->
+<!-- DYNAMIC TYPING ANIMATION -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=zeraphyx-dev&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&logo=eye" alt="Profile Views"/>
-  <a href="https://github.com/zeraphyx-dev?tab=followers">
-    <img src="https://img.shields.io/github/followers/zeraphyx-dev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Followers"/>
+  <a href="https://github.com/zeraphyx-dev">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2400&pause=700&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=1100&height=100&lines=Crafting+Solutions+That+Transform+Businesses;Building+Scalable+Systems+With+Modern+Technologies;Designing+Intuitive+Experiences+For+Real+Users;Writing+Code+That+Solves+Meaningful+Problems;Architecting+Software+That+Stands+The+Test+Of+Time" alt="Typing Animation" />
   </a>
-  <img src="https://img.shields.io/github/stars/zeraphyx-dev?affiliations=OWNER&style=for-the-badge&logo=github&color=ffdd00&labelColor=1c1917" alt="Stars"/>
-  <img src="https://img.shields.io/badge/STATUS-Available_For_Work-00ff00?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status"/>
 </p>
 
-<!-- GLOWING DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- PREMIUM DIVIDER -->
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-</div>
+<br/>
 
-<!-- ABOUT ME SECTION -->
-<div align="center">
-
-## 🎯 WHO AM I?
-
-</div>
-
-╔═════════════════════════════════════════════════════════════════╗
-║ ║
-║ 👤 CHAMIKA NUWAN - aka ZERAPHYX - 🇱🇰 Sri Lanka ║
-║ ║
-║ 💼 Full-Stack Developer - 🎨 UI/UX Designer ║
-║ ║
-║ 🎓 HND Software Engineering - BTEC Level 5 ║
-║ ║
-║ 🎂 19 Years Old - Born July 18, 2005 ║
-║ ║
-text
-
-<div align="center">
-
-### 🚀 Mission Statement
-
-**Building user-loved digital products that solve real-world problems**
-
-tagline: "Code is poetry, design is art, together they create magic"
-vision: "Innovate - Create - Inspire"
-languages: ["Sinhala (Native)", "English (Fluent)"]
-current_focus: "Scalable cloud-native apps with AI integration"
-text
-
-</div>
-
+<!-- ANALYTICS BADGES -->
 <p align="center">
-  🔥 Passionate IT enthusiast specializing in software quality & innovation<br>
-  💡 Problem solver exploring emerging tech and bleeding-edge solutions<br>
-  🎨 Bridging the gap between elegant design and powerful functionality<br>
-  ⚡ Constantly evolving, constantly building, constantly learning
+  <img src="https://komarev.com/ghpvc/?username=zeraphyx-dev&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge&logo=eye" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/zeraphyx-dev?label=FOLLOWERS&style=for-the-badge&color=00d9ff&labelColor=0a0e27&logo=github" alt="Followers"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zeraphyx-dev.zeraphyx-dev&left_color=0a0e27&right_color=00d9ff&left_text=VISITORS" alt="Visitors"/>
+  <img src="https://img.shields.io/github/stars/zeraphyx-dev?label=TOTAL+STARS&style=for-the-badge&color=7c3aed&labelColor=0a0e27&logo=github" alt="Stars"/>
 </p>
 
-<div align="center">
+<br/>
 
-<!-- SOCIAL LINKS GRID -->
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-FF5722?style=for-the-badge&logoColor=white)](https://zeraphyx.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chamikanuwan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chamikanuwan715@gmail.com)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/zeraphyx_dev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zeraphyx_dev)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zeraphyx)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/zeraphyx)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- RPG STATS -->
-<div align="center">
-
-## ⚔️ DEVELOPER STATS • RPG EDITION
+<!-- PROFESSIONAL CONTACT BUTTONS -->
+<p align="center">
+  <a href="https://zeraphyx.dev">
+    <img src="https://img.shields.io/badge/PORTFOLIO-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=0a0e27&labelColor=0a0e27" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/chamikanuwan">
+    <img src="https://img.shields.io/badge/LINKEDIN-00d9ff?style=for-the-badge&logo=linkedin&logoColor=0a0e27&labelColor=0a0e27" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:chamikanuwan715@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-00d9ff?style=for-the-badge&logo=gmail&logoColor=0a0e27&labelColor=0a0e27" alt="Email"/>
+  </a>
+  <a href="https://github.com/zeraphyx-dev">
+    <img src="https://img.shields.io/badge/GITHUB-00d9ff?style=for-the-badge&logo=github&logoColor=0a0e27&labelColor=0a0e27" alt="GitHub"/>
+  </a>
+</p>
 
 </div>
-
-<div align="center">
-
-| 🎯 ATTRIBUTE | ⚡ LEVEL | 📊 PROGRESS BAR |
-|:---:|:---:|:---|
-| **💻 CODING** | **85/100** | ![](https://geps.dev/progress/85?dangerColor=ff0000&warningColor=ff9900&successColor=00f7f7) |
-| **🎨 DESIGN** | **78/100** | ![](https://geps.dev/progress/78?dangerColor=ff0000&warningColor=ff9900&successColor=9d4edd) |
-| **🛠️ PROBLEM SOLVING** | **90/100** | ![](https://geps.dev/progress/90?dangerColor=ff0000&warningColor=ff9900&successColor=00ff00) |
-| **🤝 TEAMWORK** | **82/100** | ![](https://geps.dev/progress/82?dangerColor=ff0000&warningColor=ff9900&successColor=00f7f7) |
-| **📚 LEARNING AGILITY** | **95/100** | ![](https://geps.dev/progress/95?dangerColor=ff0000&warningColor=ff9900&successColor=ffdd00) |
-| **⚡ CREATIVITY** | **88/100** | ![](https://geps.dev/progress/88?dangerColor=ff0000&warningColor=ff9900&successColor=ff6e96) |
-
-⚡ TOTAL POWER LEVEL: 9000+
-🏆 CURRENT CLASS: Full-Stack Wizard
-text
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- TECH STACK -->
-<div align="center">
-
-## 💻 TECH ARSENAL • WEAPONS OF CHOICE
-
-</div>
-
-### 🎯 Programming Languages
-
-<div align="center">
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-</div>
-
-### 🚀 Frontend Arsenal
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-
-</div>
-
-### ⚙️ Backend Technologies
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-</div>
-
-### 🗄️ Databases & Cloud
-
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-</div>
-
-### 🎨 Design & Creative Tools
-
-<div align="center">
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-</div>
-
-### 🛠️ DevOps & Tools
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-### 🤖 AI/ML Tools
-
-<div align="center">
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_AI-7c3aed?style=for-the-badge&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- CODING STYLE BADGES -->
-<div align="center">
-
-## 🎯 CODING PHILOSOPHY
-
-![Clean Code](https://img.shields.io/badge/Clean_Code-✓-00ff00?style=for-the-badge)
-![Dark Mode](https://img.shields.io/badge/Dark_Mode_Lover-✓-purple?style=for-the-badge)
-![Type Safe](https://img.shields.io/badge/Type_Safe-✓-blue?style=for-the-badge)
-![DRY Principle](https://img.shields.io/badge/DRY_Principle-✓-orange?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-✓-red?style=for-the-badge)
-![Test Driven](https://img.shields.io/badge/Test_Driven-✓-cyan?style=for-the-badge)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- GITHUB STATS -->
-<div align="center">
-
-## 📊 GITHUB ANALYTICS • LIVE DATA
-
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeraphyx-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeraphyx-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeraphyx-dev&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7f7&ring=00f7f7&fire=ff6e96&currStreakLabel=00f7f7" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeraphyx-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7f7&line=00f7f7&point=ff6e96" alt="Contribution Graph"/>
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zeraphyx-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- WHAT I DO -->
-<div align="center">
-
-## 🚀 FEATURED PROJECTS
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Project Alpha
-
-<div align="center">  
-<a href="https://github.com/zeraphyx-dev/project-alpha">
-<img src="https://via.placeholder.com/450x250/0d1117/00f7f7?text=🚀+PROJECT+ALPHA" width="100%" alt="Project Alpha"/>
-</a>
 
 <br/>
 
-[![Code](https://img.shields.io/badge/CODE-00f7f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeraphyx-dev/project-alpha)
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-ff6e96?style=for-the-badge&logo=vercel&logoColor=white)](https://project-alpha.vercel.app)
-
-**Tech:** React • Node.js • MongoDB • Tailwind
-
-Full-stack web application with modern UI/UX design and cloud deployment
-
+<!-- PREMIUM DIVIDER -->
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚡ Project Beta
-
-<div align="center">  
-<a href="https://github.com/zeraphyx-dev/project-beta">
-<img src="https://via.placeholder.com/450x250/0d1117/ff6e96?text=⚡+PROJECT+BETA" width="100%" alt="Project Beta"/>
-</a>
 
 <br/>
-
-[![Code](https://img.shields.io/badge/CODE-ff6e96?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeraphyx-dev/project-beta)
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00f7f7?style=for-the-badge&logo=vercel&logoColor=white)](https://project-beta.vercel.app)
-
-**Tech:** C# • .NET • SQL Server • Azure
-
-Enterprise-grade software solution with robust backend architecture
-
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🔥 Project Gamma
-
-<div align="center">  
-<a href="https://github.com/zeraphyx-dev/project-gamma">
-<img src="https://via.placeholder.com/450x250/0d1117/9d4edd?text=🔥+PROJECT+GAMMA" width="100%" alt="Project Gamma"/>
-</a>
-
-<br/>
-
-[![Code](https://img.shields.io/badge/CODE-9d4edd?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeraphyx-dev/project-gamma)
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00f7f7?style=for-the-badge&logo=vercel&logoColor=white)](https://project-gamma.vercel.app)
-
-**Tech:** Python • Django • PostgreSQL • AI
-
-AI-powered application with machine learning integration
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💻 Project Delta
-
-<div align="center">  
-<a href="https://github.com/zeraphyx-dev/project-delta">
-<img src="https://via.placeholder.com/450x250/0d1117/f72585?text=💻+PROJECT+DELTA" width="100%" alt="Project Delta"/>
-</a>
-
-<br/>
-
-[![Code](https://img.shields.io/badge/CODE-f72585?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeraphyx-dev/project-delta)
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00f7f7?style=for-the-badge&logo=vercel&logoColor=white)](https://project-delta.vercel.app)
-
-**Tech:** Next.js • TypeScript • Tailwind CSS
-
-Modern web app with SSR and optimized performance
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- EDUCATION & CERTIFICATIONS -->
-<div align="center">
-
-## 🎓 EDUCATION & CERTIFICATIONS
-
-</div>
-
-<div align="center">
-
-| 🏫 INSTITUTION | 📚 QUALIFICATION | 📅 PERIOD | 🎯 STATUS |
-|:---|:---|:---:|:---:|
-| **Esoft Metro Campus** | Higher National Diploma in Software Engineering (BTEC Level 5) | 2024 - Present | 🔄 In Progress |
-| **British Way English Academy** | Diploma in English Language | 2025 - Present | ✅ Completed |
-| **Esoft Metro Campus** | Pearson BTEC Diploma in Information Technology | 2023 - 2024 | ✅ Completed |
-| **Future Life Vocational Training** | NVQ Level 3 in ICT | 2022 - 2023 | ✅ Completed |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- INTERESTS & HOBBIES -->
-<div align="center">
-
-## 🎮 HOBBIES & INTERESTS
-
-</div>
-
-<table align="center">
-<tr>
-<td width="33%" align="center">
-
-**💻 Coding**  
-Exploring new tech, building side projects, open source contributions
-
-</td>
-<td width="33%" align="center">
-
-**🎨 Design**  
-UI/UX mockups, digital art, brand identity design
-
-</td>
-<td width="33%" align="center">
-
-**📚 Learning**  
-Tech blogs, tutorials, online courses, staying updated
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-**🎮 Gaming**  
-Strategy games, RPGs, competitive multiplayer
-
-</td>
-<td width="33%" align="center">
-
-**🎵 Music**  
-Lo-fi, EDM, Synthwave while coding sessions
-
-</td>
-<td width="33%" align="center">
-
-**📸 Photography**  
-Capturing moments, photo editing, visual storytelling
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-**🌐 Tech Communities**  
-Hackathons, meetups, online developer forums
-
-</td>
-<td width="33%" align="center">
-
-**🏋️ Fitness**  
-Staying active, workouts, outdoor activities
-
-</td>
-<td width="33%" align="center">
-
-**🧩 Problem Solving**  
-Coding challenges, algorithm practice, CTFs
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- PC SETUP -->
-<div align="center">
-
-## 🎧 NOW PLAYING • SPOTIFY
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- WAKATIME CODING ACTIVITY -->
-<div align="center">
-
-## 🎲 RANDOM DEV STUFF
-
-### 💡 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<!-- FUN FACTS -->
-<div align="center">
-
-## ⚡ FUN FACTS ABOUT ME
-
-</div>
-
-🌙 I'm a **night owl** — best code written between 10 PM and 3 AM  
-☕ Powered by **coffee** and **lo-fi beats**  
-🐛 My debugging process: `console.log()` everywhere first, ask questions later  
-💾 I still keep **backups of backups** because trust issues with tech  
-🎯 I name my variables properly... **most of the time**  
-🚀 I dream in **code** and wake up with solutions  
-🎮 I treat **Git commits** like save points in video games  
-📚 My bookmarks folder has **folders within folders within folders**  
-🔥 I've Googled **"how to center a div"** more than I'd like to admit  
-💻 I have more **unfinished projects** than completed ones (working on that!)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- COLLAPSIBLE SECTIONS -->
-<details>
-<summary>🎁 <b>Click to discover a secret!</b></summary>
-
-<br>
-
-<div align="center">
-
-### 🔮 YOU FOUND THE SECRET!
-
-text
- < You are awesome! 🌟 >
-  \   ^__^
-   \  (oo)\_______
-      (__)\       )\/\
-          ||----w |
-          ||     ||
-text
-
-**Hidden Message:**  
-*"The best code is not the one that works, but the one that others can understand and maintain. Keep coding, keep learning, and never stop being curious!"*
-
-**Easter Egg Reward:** You've unlocked the **Legendary Developer** achievement! 🏆
-
-![Celebration](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
-
-</div>
-
-</details>
-
-<details>
-<summary>📊 <b>View Detailed GitHub Statistics</b></summary>
-
-<br>
-
-<div align="center">
-
-### 📈 GitHub Snake Animation
-
-![GitHub Snake Light](https://raw.githubusercontent.com/zeraphyx-dev/zeraphyx-dev/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/zeraphyx-dev/zeraphyx-dev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-### 📉 Extended Language Stats
-
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=zeraphyx&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9)
-
-### 🏅 All GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=zeraphyx-dev&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4)
-
-</div>
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- SUPPORT SECTION -->
-<div align="center">
-
-## 💖 SUPPORT MY WORK
-
-If you find my work valuable and want to support me:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zeraphyx)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/zeraphyx)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/zeraphyx)
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-100000?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/zeraphyx-dev)
-
-⭐ **Star my repositories** if you find them useful!  
-🔥 **Follow me** for more amazing projects!  
-💬 **Let's collaborate** on something awesome!
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- VISITOR COUNTER -->
-<div align="center">
-
-## 👥 VISITOR ANALYTICS
-
-![Visitor Count](https://profile-counter.glitch.me/zeraphyx-dev/count.svg)
-
-[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeraphyx-dev&count_bg=%2300F7F7&title_bg=%230D1117&icon=github.svg&icon_color=%2300F7F7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- DEVELOPER QUOTES -->
-<div align="center">
-
-## 💭 WISDOM • DEVELOPER QUOTES
-
-</div>
-
-> *"Code is like humor. When you have to explain it, it's bad."* – **Cory House**
-
-> *"First, solve the problem. Then, write the code."* – **John Johnson**
-
-> *"Experience is the name everyone gives to their mistakes."* – **Oscar Wilde**
-
-> *"The only way to learn a new programming language is by writing programs in it."* – **Dennis Ritchie**
-
-> *"Simplicity is the soul of efficiency."* – **Austin Freeman**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ASCII ART FOOTER -->
-<div align="center">
-
-╔══════════════════════════════════════════════════════════════════════════════╗
-║ ║
-║ ███████╗███████╗██████╗ █████╗ ██████╗ ██╗ ██╗██╗ ██╗██╗ ██╗ ║
-║ ╚══███╔╝██╔════╝██╔══██╗██╔══██╗██╔══██╗██║ ██║╚██╗ ██╔╝╚██╗██╔╝ ║
-║ ███╔╝ █████╗ ██████╔╝███████║██████╔╝███████║ ╚████╔╝ ╚███╔╝ ║
-║ ███╔╝ ██╔══╝ ██╔══██╗██╔══██║██╔═══╝ ██╔══██║ ╚██╔╝ ██╔██╗ ║
-║ ███████╗███████╗██║ ██║██║ ██║██║ ██║ ██║ ██║ ██╔╝ ██╗ ║
-║ ╚══════╝╚══════╝╚═╝ ╚═╝╚═╝ ╚═╝╚═╝ ╚═╝ ╚═╝ ╚═╝ ╚═╝ ╚═╝ ║
-║ ║
-║ ⚡ Full-Stack Developer - UI/UX Designer ⚡ ║
-║ 💻 Building Tomorrow, One Line At A Time 🚀 ║
-║ ║
-║ Made with 💙 and ☕ by ZERAPHYX ║
-║ ║
-text
-
-</div>
-
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 ---
 
+<br/>
+
 <div align="center">
 
-**📌 Remember:** *Code is poetry, bugs are just unexpected plot twists* 🐛✨
+## INTRODUCTION
 
-⭐️ **From [ZERAPHYX](https://github.com/zeraphyx-dev)** with 💙 • **Last Updated:** 2025 • **Sri Lanka 🇱🇰**
+</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-zeraphyx--dev-181717?style=flat-square&logo=github)](https://github.com/zeraphyx-dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-zeraphyx.dev-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://zeraphyx.dev)
-[![Email](https://img.shields.io/badge/Email-chamikanuwan715%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chamikanuwan715@gmail.com)
+<br/>
+
+<div align="center">
+
+I am a dedicated software developer specializing in building robust, scalable applications that deliver tangible value to businesses and end users. My journey in technology is driven by a genuine passion for problem-solving, continuous learning, and creating digital solutions that make a meaningful impact. Currently advancing my expertise through a Higher National Diploma in Software Engineering, I combine academic rigor with hands-on project experience to develop comprehensive technical capabilities across the full development stack.
+
+My approach to software development is grounded in understanding and mastery. Every line of code I write is thoroughly comprehended and purposefully implemented, ensuring that I maintain complete ownership of my work and can efficiently debug, optimize, and scale solutions as requirements evolve. While I leverage artificial intelligence tools to enhance productivity and accelerate certain development tasks, these technologies serve as assistants rather than replacements for fundamental understanding and critical thinking. This methodology ensures high-quality deliverables that are maintainable, secure, and built to professional standards.
+
+</div>
+
+<br/>
+
+<!-- PREMIUM DIVIDER -->
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## ABOUT ME
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### PROFESSIONAL BACKGROUND
+
+As a software developer and system designer, I specialize in transforming complex requirements into elegant technical solutions. My expertise spans backend development, database architecture, frontend implementation, and user experience design, enabling me to contribute effectively across all layers of modern application development.
+
+My academic foundation in computer science and information technology is complemented by practical experience building production-ready systems. I understand that effective software development requires more than coding proficiency—it demands systematic thinking, attention to detail, strong communication skills, and a commitment to continuous improvement.
+
+</td>
+<td width="50%" valign="top">
+
+### DEVELOPMENT PHILOSOPHY
+
+Quality and comprehension form the cornerstone of my development practice. I write clean, self-documenting code with meaningful abstractions and maintain thorough documentation to ensure long-term maintainability. This commitment to excellence extends beyond technical implementation to encompass user experience design, performance optimization, and security considerations.
+
+I approach each project with a growth mindset, viewing challenges as opportunities to expand my capabilities and refine my technical judgment. Through active engagement with developer communities, technical documentation, and hands-on experimentation, I stay current with industry best practices and emerging technologies while deepening my understanding of fundamental principles.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PREMIUM DIVIDER -->
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## CRAFTWARE STUDIO
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**Craftware Studio** represents my commitment to delivering professional software solutions that address real business challenges and create lasting value for clients. As a software solutions company, Craftware Studio focuses on developing custom applications, system integrations, and digital products tailored to specific organizational needs and objectives.
+
+Our approach combines technical expertise with business acumen to deliver solutions that not only function flawlessly but also align with strategic goals and operational requirements. From initial consultation through deployment and ongoing support, we prioritize clear communication, transparent processes, and measurable outcomes that demonstrate genuine return on investment.
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### PROFESSIONAL CONTACT CHANNELS
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://www.facebook.com/share/17H9dX5Qr5/">
+<img src="https://img.shields.io/badge/FACEBOOK-00d9ff?style=for-the-badge&logo=facebook&logoColor=0a0e27&labelColor=0a0e27" alt="Facebook"/>
+</a>
+<br/><br/>
+Connect with us on Facebook for updates and announcements
+</td>
+<td align="center" width="25%">
+<a href="#">
+<img src="https://img.shields.io/badge/INSTAGRAM-7c3aed?style=for-the-badge&logo=instagram&logoColor=0a0e27&labelColor=0a0e27" alt="Instagram"/>
+</a>
+<br/><br/>
+Follow our visual journey and project highlights
+</td>
+<td align="center" width="25%">
+<a href="https://wa.me/94725486679">
+<img src="https://img.shields.io/badge/WHATSAPP-00d9ff?style=for-the-badge&logo=whatsapp&logoColor=0a0e27&labelColor=0a0e27" alt="WhatsApp"/>
+</a>
+<br/><br/>
+Direct messaging for immediate inquiries and consultations
+</td>
+<td align="center" width="25%">
+<a href="mailto:infocraftware@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-7c3aed?style=for-the-badge&logo=gmail&logoColor=0a0e27&labelColor=0a0e27" alt="Email"/>
+</a>
+<br/><br/>
+Professional correspondence and detailed project discussions
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- PREMIUM DIVIDER -->
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## REAL-TIME ANALYTICS DASHBOARD
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/PROFILE_ANALYTICS-00d9ff?style=for-the-badge&labelColor=0a0e27" alt="Profile"/>
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=zeraphyx-dev&label=Total+Views&color=00d9ff&style=flat-square&labelColor=0a0e27" alt="Views"/>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/VISITOR_TRACKING-7c3aed?style=for-the-badge&labelColor=0a0e27" alt="Visitors"/>
+<br/><br/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=zeraphyx-dev.zeraphyx-dev&left_color=0a0e27&right_color=7c3aed" alt="Visitor Count"/>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/REPOSITORY_METRICS-00d9ff?style=for-the-badge&labelColor=0a0e27" alt="Repos"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Total+Repos&color=00d9ff&query=%24.public_repos&url=https://api.github.com/users/zeraphyx-dev&style=flat-square&labelColor=0a0e27" alt="Repos"/>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/CONTRIBUTION_ACTIVITY-7c3aed?style=for-the-badge&labelColor=0a0e27" alt="Contributions"/>
+<br/><br/>
+<img src="https://img.shields.io/github/commit-activity/y/zeraphyx-dev/zeraphyx-dev?style=flat-square&color=7c3aed&labelColor=0a0e27&label=Yearly+Activity" alt="Activity"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- PREMIUM DIVIDER -->
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## TECHNICAL EXPERTISE
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### PROGRAMMING LANGUAGES
+
+<br/>
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=0a0e27)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0a0e27)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0e27)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0a0e27)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0a0e27)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0a0e27)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0a0e27)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=0a0e27)
+
+<br/><br/>
+
+### FRAMEWORKS AND LIBRARIES
+
+<br/>
+
+![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0a0e27)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0a0e27)
+![Node.js](https://img.shields.io/badge/NODE.JS-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0a0e27)
+![Express.js](https://img.shields.io/badge/EXPRESS.JS-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=0a0e27)
+![TailwindCSS](https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0a0e27)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0a0e27)
+
+<br/><br/>
+
+### DATABASE TECHNOLOGIES
+
+<br/>
+
+![MongoDB](https://img.shields.io/badge/MONGODB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0a0e27)
+![MySQL](https://img.shields.io/badge/MYSQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0a0e27)
+![SQL Server](https://img.shields.io/badge/SQL_SERVER-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=0a0e27)
+
+<br/><br/>
+
+### DEVELOPMENT TOOLS
+
+<br/>
+
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0a0e27)
+![Adobe XD](https://img.shields.io/badge/ADOBE_XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white&labelColor=0a0e27)
+![Photoshop](https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=0a0e27)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0a0e27)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0e27)
+![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0a0e27)
+
+<br/><br/>
+
+### CURRENTLY LEARNING
+
+<br/>
+
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0e27)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0a0e27)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0a0e27)
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0a0e27)
+
+</div>
+
+<br/>
+
+<!-- PREMIUM DIVIDER -->
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## FEATURED PROJECTS
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### COMPUTER SHOP WEBSITE
+
+<br/>
+
+A comprehensive electronic commerce platform designed specifically for computer hardware retail operations. This solution provides complete product catalog management, shopping cart functionality, secure user authentication, and streamlined checkout processes. The architecture emphasizes performance optimization, responsive design principles, and seamless user experiences across desktop and mobile devices, ensuring customers can browse and purchase products efficiently.
+
+<br/>
+
+![Node.js](https://img.shields.io/badge/NODE.JS-43853D?style=flat-square&logo=node.js&logoColor=white&labelColor=0a0e27)
+![Express.js](https://img.shields.io/badge/EXPRESS-404D59?style=flat-square&logo=express&logoColor=white&labelColor=0a0e27)
+![TailwindCSS](https://img.shields.io/badge/TAILWIND-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=0a0e27)
+![MySQL](https://img.shields.io/badge/MYSQL-005C84?style=flat-square&logo=mysql&logoColor=white&labelColor=0a0e27)
+
+<br/><br/>
+
+<p>
+  <a href="#" style="transition: opacity 0.3s;">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-00d9ff?style=for-the-badge&logoColor=0a0e27&labelColor=0a0e27" alt="Live Demo"/>
+  </a>
+  <a href="#" style="transition: opacity 0.3s;">
+    <img src="https://img.shields.io/badge/SOURCE_CODE-00d9ff?style=for-the-badge&logo=github&logoColor=0a0e27&labelColor=0a0e27" alt="Source Code"/>
+  </a>
+</p>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### PERSONAL PORTFOLIO WEBSITE
+
+<br/>
+
+A sophisticated portfolio platform showcasing professional work, technical capabilities, and design sensibilities through dynamic interfaces and interactive elements. Built using cutting-edge web technologies, this project demonstrates modern development practices including server-side rendering, optimized asset delivery, and progressive enhancement strategies. The implementation prioritizes accessibility standards, search engine optimization, and performance metrics to ensure maximum reach and engagement.
+
+<br/>
+
+![React](https://img.shields.io/badge/REACT-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0a0e27)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0a0e27)
+![TailwindCSS](https://img.shields.io/badge/TAILWIND-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=0a0e27)
+![MongoDB](https://img.shields.io/badge/MONGODB-4EA94B?style=flat-square&logo=mongodb&logoColor=white&labelColor=0a0e27)
+
+<br/><br/>
+
+<p>
+  <a href="#" style="transition: opacity 0.3s;">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-00d9ff?style=for-the-badge&logoColor=0a0e27&labelColor=0a0e27" alt="Live Demo"/>
+  </a>
+  <a href="#" style="transition: opacity 0.3s;">
+    <img src="https://img.shields.io/badge/SOURCE_CODE-00d9ff?style=for-the-badge&logo=github&logoColor=0a0e27&labelColor=0a0e27" alt="Source Code"/>
+  </a>
+</p>
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### EMPLOYEE MANAGEMENT SYSTEM
+
+<br/>
+
+An enterprise-grade desktop application engineered for comprehensive human resource management and administrative operations. This system handles employee records, attendance tracking, performance evaluations, and generates detailed analytical reports for management decision-making. The architecture incorporates robust security measures, role-based access controls, and optimized database queries to ensure data integrity and system reliability in production environments.
+
+<br/>
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white&labelColor=0a0e27)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=0a0e27)
+![MySQL](https://img.shields.io/badge/MYSQL-005C84?style=flat-square&logo=mysql&logoColor=white&labelColor=0a0e27)
+
+<br/><br/>
+
+<p>
+  <a href="#" style="transition: opacity 0.3s;">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-00d9ff?style=for-the-badge&logoColor=0a0e27&labelColor=0a0e27" alt="Live Demo"/>
+  </a>
+  <a href="#" style="transition: opacity 0.3s;">
+    <img src="https://img.shields.io/badge/SOURCE_CODE-00d9ff?style=for-the-badge&logo=github&logoColor=0a0e27&labelColor=0a0e27" alt="Source Code"/>
+  </a>
+</p>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### SUPERMARKET MANAGEMENT SYSTEM
+
+<br/>
+
+A comprehensive point-of-sale and inventory control solution designed for retail operations requiring high transaction throughput and real-time data synchronization. This system manages sales processing, inventory tracking, supplier relationships, and provides detailed business analytics to support operational decisions. The implementation focuses on data accuracy, transaction reliability, and intuitive user interfaces that minimize training requirements for staff.
+
+<br/>
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white&labelColor=0a0e27)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=0a0e27)
+![SQL Server](https://img.shields.io/badge/SQL_SERVER-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white&labelColor=0a0e27)
+
+<br/><br/>
+
+<p>
+  <a href="#" style="transition: opacity 0.3s;">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-00d9ff?style=for-the-badge&logoColor=0a0e27&labelColor=0a0e27" alt="Live Demo"/>
+  </a>
+  <a href="#" style="transition: opacity 0.3s;">
+    <img src="https://img.shields.io/badge/SOURCE_CODE-00d9ff?style=for-the-badge&logo=github&logoColor=0a0e27&labelColor=0a0e27" alt="Source Code"/>
+  </a>
+</p>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- PREMIUM DIVIDER -->
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## EXPERIENCE AND EXPERTISE
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### TECHNICAL CAPABILITIES
+
+My technical skill set encompasses full-stack development with proficiency across multiple programming languages, frameworks, and database systems. From backend architecture and business logic implementation to frontend interfaces and responsive design, I bring comprehensive capabilities to software projects of varying scope and complexity.
+
+System design experience enables me to architect solutions that balance performance requirements, scalability considerations, and maintainability concerns. I understand the trade-offs inherent in technical decisions and can evaluate approaches based on project-specific constraints and long-term strategic objectives.
+
+</td>
+<td width="50%" valign="top">
+
+### PROFESSIONAL GROWTH
+
+Continuous professional development drives my approach to career advancement. Through structured learning pathways, hands-on project work, and engagement with technical communities, I systematically expand my knowledge base and refine my practical skills across emerging technologies and established best practices.
+
+Problem-solving methodology forms a core competency, enabling me to decompose complex challenges into manageable components, evaluate solution alternatives systematically, and implement approaches that deliver reliable results while maintaining code quality standards and documentation requirements.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PREMIUM DIVIDER -->
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## DEVELOPMENT PHILOSOPHY
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### CODE QUALITY
+
+Clean code represents a fundamental commitment to future maintainability and collaborative development. Every function should serve a single, well-defined purpose. Every class should encapsulate a coherent concept. Every module should minimize external dependencies while providing clear, stable interfaces.
+
+This discipline extends beyond syntax and formatting to encompass architectural decisions, naming conventions, error handling strategies, and documentation practices that facilitate understanding and modification by other developers or future versions of oneself.
+
+</td>
+<td width="33%" valign="top">
+
+### SCALABLE ARCHITECTURE
+
+Building scalable systems requires foresight regarding future requirements, growth patterns, and evolving business needs. Architectural decisions made during initial development profoundly impact long-term flexibility, performance characteristics, and maintenance costs.
+
+I prioritize modular designs with clear separation of concerns, well-defined interfaces between components, and implementation strategies that facilitate incremental enhancement without requiring extensive refactoring or system-wide modifications.
+
+</td>
+<td width="33%" valign="top">
+
+### RESPONSIBLE TECHNOLOGY USE
+
+Artificial intelligence and automation tools offer genuine productivity enhancements when applied thoughtfully and responsibly. These technologies excel at accelerating routine tasks, generating boilerplate code, and suggesting implementation approaches based on patterns learned from vast code repositories.
+
+However, developers must maintain comprehensive understanding of generated code, verify correctness and security properties, ensure alignment with project standards, and take full responsibility for all deliverables regardless of the tools employed during development.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PREMIUM DIVIDER -->
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## PROFESSIONAL SERVICES
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### SOFTWARE DEVELOPMENT
+
+Building custom software solutions tailored to specific business requirements and operational contexts. From initial requirements analysis through deployment and ongoing support, delivering applications that solve real problems, improve workflows, and create measurable value for organizations and their stakeholders through robust implementation and thoughtful design.
+
+</div>
+
+<br/>
+
+<!-- PREMIUM DIVIDER -->
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## MY TECHNICAL VISION
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### USER-CENTERED DESIGN
+
+Technology should enhance human capabilities and simplify complex tasks rather than introducing unnecessary complications or imposing steep learning curves. This principle guides architectural decisions, interface design choices, and feature prioritization throughout the development lifecycle.
+
+Understanding user needs, workflows, and pain points enables creation of solutions that feel intuitive, respond predictably, and deliver genuine utility in real-world operational contexts rather than merely demonstrating technical sophistication.
+
+</td>
+<td width="33%" valign="top">
+
+### EXCELLENCE OVER VOLUME
+
+Quality standards take precedence over development velocity when these priorities conflict. Building fewer projects to exemplary standards yields better long-term outcomes than rushing through numerous mediocre implementations that accumulate technical debt and maintenance burdens.
+
+This commitment manifests in thorough testing procedures, comprehensive documentation practices, thoughtful architectural planning, and willingness to refactor code when initial approaches prove suboptimal or requirements evolve.
+
+</td>
+<td width="33%" valign="top">
+
+### CONTINUOUS INNOVATION
+
+The software development landscape evolves continuously with new tools, frameworks, paradigms, and best practices emerging regularly. Staying current requires dedicated time for learning, experimentation, and integration of valuable innovations into professional practice.
+
+Balancing established techniques with emerging approaches enables leveraging proven methodologies while gradually adopting innovations that offer genuine improvements in productivity, code quality, or system capabilities.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PREMIUM DIVIDER -->
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## WHAT I AM LEARNING NOW
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### CLOUD INFRASTRUCTURE
+
+Expanding expertise in cloud computing platforms, particularly Amazon Web Services, to understand modern deployment architectures, serverless computing paradigms, and infrastructure automation practices. Cloud platforms enable building scalable applications without managing physical infrastructure while providing sophisticated services for data storage, processing, and delivery.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### CONTAINER TECHNOLOGIES
+
+Containerization with Docker and orchestration with Kubernetes represent fundamental shifts in application deployment and operations. These technologies enable consistent environments across development, testing, and production while facilitating microservices architectures and efficient resource utilization through container scheduling and management.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### TYPE-SAFE DEVELOPMENT
+
+TypeScript adoption enhances JavaScript development through static type checking, improved tooling support, and better code documentation through type annotations. Type safety catches entire categories of bugs during development rather than runtime, reducing debugging time and increasing confidence in code correctness.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PREMIUM DIVIDER -->
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## LONG-TERM PROFESSIONAL GOALS
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### SYSTEM ARCHITECTURE MASTERY
+
+Over the coming years, establishing expertise as a software architect capable of designing and implementing complex distributed systems across multiple domains and technology stacks. This progression requires deepening knowledge of scalability patterns, performance optimization techniques, security considerations, and operational reliability practices.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### OPEN SOURCE CONTRIBUTIONS
+
+Contributing meaningfully to open-source projects aligns with values of knowledge sharing, community engagement, and collaborative development. Participation in these efforts provides opportunities to learn from experienced developers while giving back to the tools and frameworks that enable professional work.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### PRODUCT DEVELOPMENT
+
+Eventually launching software-as-a-service products that address genuine market needs through sustainable business models. This entrepreneurial path combines technical development capabilities with product management, user acquisition, and business strategy to create lasting value.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PREMIUM DIVIDER -->
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## HOW I APPROACH PROBLEM SOLVING
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ANALYSIS AND PLANNING
+
+Effective problem-solving begins with thorough understanding of requirements, constraints, and success criteria. Investing time upfront to analyze the problem domain, identify stakeholder needs, and evaluate technical options prevents costly mistakes and ensures alignment between expectations and deliverables.
+
+My development workflow emphasizes iterative progress with continuous validation. Rather than attempting comprehensive implementations upfront, I create minimum viable features, test them thoroughly, gather feedback from users or stakeholders, and refine based on real-world usage patterns and performance characteristics.
+
+</td>
+<td width="50%" valign="top">
+
+### IMPLEMENTATION AND VERIFICATION
+
+Code quality standards guide implementation decisions at every level. I write self-documenting code with meaningful abstractions, maintain consistent formatting and conventions, implement comprehensive error handling, and refactor regularly to eliminate technical debt before it compounds.
+
+When debugging issues, systematic approaches yield efficient resolutions. Reproduce problems reliably, isolate problem areas through targeted testing, formulate and test hypotheses methodically, and verify solutions comprehensively across affected scenarios and edge cases.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PREMIUM DIVIDER -->
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## WHAT MAKES MY WORK UNIQUE
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/COMPREHENSIVE_SKILLS-00d9ff?style=for-the-badge&labelColor=0a0e27" alt="Skills"/>
+
+<br/><br/>
+
+Technical versatility across multiple programming languages, frameworks, and system architectures enables contribution at any layer of the application stack, from database optimization through backend business logic to frontend user interfaces.
+
+</td>
+<td width="25%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/DESIGN_AWARENESS-7c3aed?style=for-the-badge&labelColor=0a0e27" alt="Design"/>
+
+<br/><br/>
+
+Understanding both technical constraints and user experience considerations facilitates productive collaboration between development and design teams, enabling balanced decisions that satisfy functional requirements while delivering excellent user experiences.
+
+</td>
+<td width="25%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/CLEAR_COMMUNICATION-00d9ff?style=for-the-badge&labelColor=0a0e27" alt="Communication"/>
+
+<br/><br/>
+
+Strong communication and documentation practices ensure knowledge sharing and project continuity, reducing onboarding time for new team members and preventing knowledge silos that create single points of failure.
+
+</td>
+<td width="25%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/CONTINUOUS_LEARNING-7c3aed?style=for-the-badge&labelColor=0a0e27" alt="Learning"/>
+
+<br/><br/>
+
+A growth mindset drives ongoing improvement in technical capabilities and professional skills through active feedback seeking, learning from mistakes, and adapting approaches based on what proves most effective.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PREMIUM DIVIDER -->
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## PROFESSIONAL MINDSET AND ETHICS
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### ACCOUNTABILITY
+
+Taking full responsibility for all deliverables regardless of tools or technologies employed during development. This means understanding every component, verifying correctness and security properties, and ensuring all code meets professional standards for quality, maintainability, and documentation.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### TRANSPARENCY
+
+Maintaining clear, honest communication with stakeholders about project status, technical challenges, and realistic timelines. When issues arise, addressing them proactively rather than obscuring problems until they become critical enables collaborative problem-solving and maintains trust.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### COMMITMENT TO EXCELLENCE
+
+Delivering work that meets or exceeds professional standards rather than accepting mediocrity or cutting corners to meet arbitrary deadlines. Quality software requires adequate time for design, implementation, testing, and refinement—rushing these processes creates technical debt and maintenance burdens.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PREMIUM DIVIDER -->
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## GITHUB ANALYTICS
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=zeraphyx-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0e27&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=15" alt="GitHub Statistics"/>
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeraphyx-dev&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0a0e27&title_color=00d9ff&text_color=c9d1d9&border_radius=15" alt="Top Languages"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=zeraphyx-dev&theme=radical&hide_border=true&background=0a0e27&stroke=00d9ff&ring=00d9ff&fire=7c3aed&currStreakLabel=00d9ff&border_radius=15" alt="Contribution Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zeraphyx-dev&theme=react-dark&hide_border=true&bg_color=0a0e27&color=00d9ff&line=00d9ff&point=7c3aed&area=true&border_radius=15" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zeraphyx-dev&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+<!-- PREMIUM DIVIDER -->
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## CALL TO ACTION
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=70&lines=I+welcome+collaboration+opportunities+with+fellow+developers;Let+us+build+innovative+solutions+that+create+lasting+impact;Connect+with+me+through+any+of+the+channels+below" alt="Connect Message"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://wa.me/94725486679">
+<img src="https://img.shields.io/badge/WHATSAPP-00d9ff?style=for-the-badge&logo=whatsapp&logoColor=0a0e27&labelColor=0a0e27" alt="WhatsApp"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Direct_Messaging-00d9ff?style=flat-square&labelColor=0a0e27" alt="WhatsApp Label"/>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="mailto:chamikanuwan715@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-7c3aed?style=for-the-badge&logo=gmail&logoColor=0a0e27&labelColor=0a0e27" alt="Email"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Professional_Correspondence-7c3aed?style=flat-square&labelColor=0a0e27" alt="Email Label"/>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://zeraphyx.dev">
+<img src="https://img.shields.io/badge/PORTFOLIO-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=0a0e27&labelColor=0a0e27" alt="Portfolio"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/View_Complete_Work-00d9ff?style=flat-square&labelColor=0a0e27" alt="Portfolio Label"/>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://linkedin.com/in/chamikanuwan">
+<img src="https://img.shields.io/badge/LINKEDIN-7c3aed?style=for-the-badge&logo=linkedin&logoColor=0a0e27&labelColor=0a0e27" alt="LinkedIn"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Professional_Network-7c3aed?style=flat-square&labelColor=0a0e27" alt="LinkedIn Label"/>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/><br/>
+
+<!-- PREMIUM DIVIDER -->
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+<!-- FOOTER SECTION -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,11,20,24&height=220&section=footer"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=80&lines=Building+The+Future+One+Commit+At+A+Time;Thank+You+For+Visiting+My+Profile" alt="Footer Message"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/CRAFTED_WITH-7c3aed?style=for-the-badge&labelColor=0a0e27" alt="Crafted"/>
+<br/>
+<img src="https://img.shields.io/badge/Dedication-7c3aed?style=flat-square&labelColor=0a0e27" alt="Dedication"/>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/POWERED_BY-00d9ff?style=for-the-badge&labelColor=0a0e27" alt="Powered"/>
+<br/>
+<img src="https://img.shields.io/badge/Innovation-00d9ff?style=flat-square&labelColor=0a0e27" alt="Innovation"/>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/DESIGNED_FOR-7c3aed?style=for-the-badge&labelColor=0a0e27" alt="Designed"/>
+<br/>
+<img src="https://img.shields.io/badge/Excellence-7c3aed?style=flat-square&labelColor=0a0e27" alt="Excellence"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+[![Professional Profile](https://img.shields.io/badge/PROFESSIONAL_PROFILE-00d9ff?style=for-the-badge&logo=github&logoColor=0a0e27&labelColor=0a0e27)](https://github.com/zeraphyx-dev)
+[![Portfolio Website](https://img.shields.io/badge/PORTFOLIO_WEBSITE-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=0a0e27&labelColor=0a0e27)](https://zeraphyx.dev)
+
+<br/>
+
+**Last Updated: November 2025**
+
+<br/>
+
+**© 2025 Craftware Studio. All Rights Reserved.**
 
 </div>
