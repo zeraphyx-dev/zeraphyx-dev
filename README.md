@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- HERO SECTION WITH VIDEO LOOP -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,11,20,24&height=450&section=header&text=ZERAPHYX%20&fontSize=120&fontColor=00d9ff&animation=twinkling&fontAlignY=35&desc=PROFESSIONAL%20SOFTWARE%20DEVELOPER%20%E2%80%A2%20SYSTEM%20ARCHITECT%20%E2%80%A2%20DIGITAL%20CRAFTSMAN&descAlignY=55&descSize=22&descColor=ffffff&stroke=00d9ff&strokeWidth=1"/>
+<!-- HERO SECTION WITH VISIBLE BLUE WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0969da&height=450&section=header&text=ZERAPHYX%20&fontSize=120&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20STUDENT&descAlignY=55&descSize=28&descColor=e6edf3&stroke=ffffff&strokeWidth=2"/>
 
 <br/>
 
 <!-- DYNAMIC TYPING ANIMATION -->
 <p>
   <a href="https://github.com/zeraphyx-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2400&pause=700&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=1100&height=100&lines=Crafting+Solutions+That+Transform+Businesses;Building+Scalable+Systems+With+Modern+Technologies;Designing+Intuitive+Experiences+For+Real+Users;Writing+Code+That+Solves+Meaningful+Problems;Architecting+Software+That+Stands+The+Test+Of+Time" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2400&pause=700&color=0969DA&center=true&vCenter=true&multiline=false&repeat=true&width=1100&height=100&lines=CRAFTING+SOLUTIONS+THAT+TRANSFORM+BUSINESSES;BUILDING+SCALABLE+SYSTEMS+WITH+MODERN+TECHNOLOGIES;DESIGNING+INTUITIVE+EXPERIENCES+FOR+REAL+USERS;WRITING+CODE+THAT+SOLVES+MEANINGFUL+PROBLEMS;ARCHITECTING+SOFTWARE+THAT+STANDS+THE+TEST+OF+TIME" alt="Typing Animation" />
   </a>
 </p>
 
@@ -19,10 +19,10 @@
 
 <!-- ANALYTICS BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeraphyx-dev&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge&logo=eye" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/zeraphyx-dev?label=FOLLOWERS&style=for-the-badge&color=00d9ff&labelColor=0a0e27&logo=github" alt="Followers"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zeraphyx-dev.zeraphyx-dev&left_color=0a0e27&right_color=00d9ff&left_text=VISITORS" alt="Visitors"/>
-  <img src="https://img.shields.io/github/stars/zeraphyx-dev?label=TOTAL+STARS&style=for-the-badge&color=7c3aed&labelColor=0a0e27&logo=github" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=zeraphyx-dev&label=PROFILE+VIEWS&color=0969da&style=for-the-badge&logo=eye&labelColor=161b22" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/zeraphyx-dev?label=FOLLOWERS&style=for-the-badge&color=0969da&labelColor=161b22&logo=github" alt="Followers"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zeraphyx-dev.zeraphyx-dev&left_color=161b22&right_color=0969da&left_text=VISITORS" alt="Visitors"/>
+  <img src="https://img.shields.io/github/stars/zeraphyx-dev?label=TOTAL+STARS&style=for-the-badge&color=1f6feb&labelColor=161b22&logo=github" alt="Stars"/>
 </p>
 
 <br/>
@@ -30,16 +30,16 @@
 <!-- PROFESSIONAL CONTACT BUTTONS -->
 <p align="center">
   <a href="https://zeraphyx.dev">
-    <img src="https://img.shields.io/badge/PORTFOLIO-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=0a0e27&labelColor=0a0e27" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-0969da?style=for-the-badge&logo=google-chrome&logoColor=e6edf3&labelColor=161b22" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/chamikanuwan">
-    <img src="https://img.shields.io/badge/LINKEDIN-00d9ff?style=for-the-badge&logo=linkedin&logoColor=0a0e27&labelColor=0a0e27" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0969da?style=for-the-badge&logo=linkedin&logoColor=e6edf3&labelColor=161b22" alt="LinkedIn"/>
   </a>
   <a href="mailto:chamikanuwan715@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-00d9ff?style=for-the-badge&logo=gmail&logoColor=0a0e27&labelColor=0a0e27" alt="Email"/>
+    <img src="https://img.shields.io/badge/EMAIL-0969da?style=for-the-badge&logo=gmail&logoColor=e6edf3&labelColor=161b22" alt="Email"/>
   </a>
   <a href="https://github.com/zeraphyx-dev">
-    <img src="https://img.shields.io/badge/GITHUB-00d9ff?style=for-the-badge&logo=github&logoColor=0a0e27&labelColor=0a0e27" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-0969da?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22" alt="GitHub"/>
   </a>
 </p>
 
@@ -159,28 +159,28 @@ Our approach combines technical expertise with business acumen to deliver soluti
 <tr>
 <td align="center" width="25%">
 <a href="https://www.facebook.com/share/17H9dX5Qr5/">
-<img src="https://img.shields.io/badge/FACEBOOK-00d9ff?style=for-the-badge&logo=facebook&logoColor=0a0e27&labelColor=0a0e27" alt="Facebook"/>
+<img src="https://img.shields.io/badge/FACEBOOK-0969da?style=for-the-badge&logo=facebook&logoColor=e6edf3&labelColor=161b22" alt="Facebook"/>
 </a>
 <br/><br/>
 Connect with us on Facebook for updates and announcements
 </td>
 <td align="center" width="25%">
 <a href="#">
-<img src="https://img.shields.io/badge/INSTAGRAM-7c3aed?style=for-the-badge&logo=instagram&logoColor=0a0e27&labelColor=0a0e27" alt="Instagram"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-1f6feb?style=for-the-badge&logo=instagram&logoColor=e6edf3&labelColor=161b22" alt="Instagram"/>
 </a>
 <br/><br/>
 Follow our visual journey and project highlights
 </td>
 <td align="center" width="25%">
 <a href="https://wa.me/94725486679">
-<img src="https://img.shields.io/badge/WHATSAPP-00d9ff?style=for-the-badge&logo=whatsapp&logoColor=0a0e27&labelColor=0a0e27" alt="WhatsApp"/>
+<img src="https://img.shields.io/badge/WHATSAPP-0969da?style=for-the-badge&logo=whatsapp&logoColor=e6edf3&labelColor=161b22" alt="WhatsApp"/>
 </a>
 <br/><br/>
 Direct messaging for immediate inquiries and consultations
 </td>
 <td align="center" width="25%">
 <a href="mailto:infocraftware@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-7c3aed?style=for-the-badge&logo=gmail&logoColor=0a0e27&labelColor=0a0e27" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-1f6feb?style=for-the-badge&logo=gmail&logoColor=e6edf3&labelColor=161b22" alt="Email"/>
 </a>
 <br/><br/>
 Professional correspondence and detailed project discussions
@@ -216,24 +216,24 @@ Professional correspondence and detailed project discussions
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/PROFILE_ANALYTICS-00d9ff?style=for-the-badge&labelColor=0a0e27" alt="Profile"/>
+<img src="https://img.shields.io/badge/PROFILE_ANALYTICS-0969da?style=for-the-badge&labelColor=161b22" alt="Profile"/>
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=zeraphyx-dev&label=Total+Views&color=00d9ff&style=flat-square&labelColor=0a0e27" alt="Views"/>
+<img src="https://komarev.com/ghpvc/?username=zeraphyx-dev&label=Total+Views&color=0969da&style=flat-square&labelColor=161b22" alt="Views"/>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/VISITOR_TRACKING-7c3aed?style=for-the-badge&labelColor=0a0e27" alt="Visitors"/>
+<img src="https://img.shields.io/badge/VISITOR_TRACKING-1f6feb?style=for-the-badge&labelColor=161b22" alt="Visitors"/>
 <br/><br/>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=zeraphyx-dev.zeraphyx-dev&left_color=0a0e27&right_color=7c3aed" alt="Visitor Count"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=zeraphyx-dev.zeraphyx-dev&left_color=161b22&right_color=1f6feb" alt="Visitor Count"/>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/REPOSITORY_METRICS-00d9ff?style=for-the-badge&labelColor=0a0e27" alt="Repos"/>
+<img src="https://img.shields.io/badge/REPOSITORY_METRICS-0969da?style=for-the-badge&labelColor=161b22" alt="Repos"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Total+Repos&color=00d9ff&query=%24.public_repos&url=https://api.github.com/users/zeraphyx-dev&style=flat-square&labelColor=0a0e27" alt="Repos"/>
+<img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Total+Repos&color=0969da&query=%24.public_repos&url=https://api.github.com/users/zeraphyx-dev&style=flat-square&labelColor=161b22" alt="Repos"/>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/CONTRIBUTION_ACTIVITY-7c3aed?style=for-the-badge&labelColor=0a0e27" alt="Contributions"/>
+<img src="https://img.shields.io/badge/CONTRIBUTION_ACTIVITY-1f6feb?style=for-the-badge&labelColor=161b22" alt="Contributions"/>
 <br/><br/>
-<img src="https://img.shields.io/github/commit-activity/y/zeraphyx-dev/zeraphyx-dev?style=flat-square&color=7c3aed&labelColor=0a0e27&label=Yearly+Activity" alt="Activity"/>
+<img src="https://img.shields.io/github/commit-activity/y/zeraphyx-dev/zeraphyx-dev?style=flat-square&color=1f6feb&labelColor=161b22&label=Yearly+Activity" alt="Activity"/>
 </td>
 </tr>
 </table>
@@ -267,14 +267,14 @@ Professional correspondence and detailed project discussions
 
 <br/>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=0a0e27)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0a0e27)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0e27)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0a0e27)
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0a0e27)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0a0e27)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0a0e27)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=0a0e27)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=161b22)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=161b22)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=161b22)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=161b22)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=161b22)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=161b22)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=161b22)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=161b22)
 
 <br/><br/>
 
@@ -282,12 +282,12 @@ Professional correspondence and detailed project discussions
 
 <br/>
 
-![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0a0e27)
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0a0e27)
-![Node.js](https://img.shields.io/badge/NODE.JS-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0a0e27)
-![Express.js](https://img.shields.io/badge/EXPRESS.JS-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=0a0e27)
-![TailwindCSS](https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0a0e27)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0a0e27)
+![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=161b22)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=161b22)
+![Node.js](https://img.shields.io/badge/NODE.JS-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=161b22)
+![Express.js](https://img.shields.io/badge/EXPRESS.JS-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=161b22)
+![TailwindCSS](https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=161b22)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=161b22)
 
 <br/><br/>
 
@@ -295,9 +295,9 @@ Professional correspondence and detailed project discussions
 
 <br/>
 
-![MongoDB](https://img.shields.io/badge/MONGODB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0a0e27)
-![MySQL](https://img.shields.io/badge/MYSQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0a0e27)
-![SQL Server](https://img.shields.io/badge/SQL_SERVER-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=0a0e27)
+![MongoDB](https://img.shields.io/badge/MONGODB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=161b22)
+![MySQL](https://img.shields.io/badge/MYSQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=161b22)
+![SQL Server](https://img.shields.io/badge/SQL_SERVER-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=161b22)
 
 <br/><br/>
 
@@ -305,12 +305,12 @@ Professional correspondence and detailed project discussions
 
 <br/>
 
-![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0a0e27)
-![Adobe XD](https://img.shields.io/badge/ADOBE_XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white&labelColor=0a0e27)
-![Photoshop](https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=0a0e27)
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0a0e27)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0e27)
-![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0a0e27)
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=161b22)
+![Adobe XD](https://img.shields.io/badge/ADOBE_XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white&labelColor=161b22)
+![Photoshop](https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=161b22)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=161b22)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=161b22)
+![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=161b22)
 
 <br/><br/>
 
@@ -318,10 +318,10 @@ Professional correspondence and detailed project discussions
 
 <br/>
 
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0e27)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0a0e27)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0a0e27)
-![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0a0e27)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=161b22)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=161b22)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=161b22)
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=161b22)
 
 </div>
 
@@ -362,19 +362,19 @@ A comprehensive electronic commerce platform designed specifically for computer 
 
 <br/>
 
-![Node.js](https://img.shields.io/badge/NODE.JS-43853D?style=flat-square&logo=node.js&logoColor=white&labelColor=0a0e27)
-![Express.js](https://img.shields.io/badge/EXPRESS-404D59?style=flat-square&logo=express&logoColor=white&labelColor=0a0e27)
-![TailwindCSS](https://img.shields.io/badge/TAILWIND-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=0a0e27)
-![MySQL](https://img.shields.io/badge/MYSQL-005C84?style=flat-square&logo=mysql&logoColor=white&labelColor=0a0e27)
+![Node.js](https://img.shields.io/badge/NODE.JS-43853D?style=flat-square&logo=node.js&logoColor=white&labelColor=161b22)
+![Express.js](https://img.shields.io/badge/EXPRESS-404D59?style=flat-square&logo=express&logoColor=white&labelColor=161b22)
+![TailwindCSS](https://img.shields.io/badge/TAILWIND-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=161b22)
+![MySQL](https://img.shields.io/badge/MYSQL-005C84?style=flat-square&logo=mysql&logoColor=white&labelColor=161b22)
 
 <br/><br/>
 
 <p>
-  <a href="#" style="transition: opacity 0.3s;">
-    <img src="https://img.shields.io/badge/LIVE_DEMO-00d9ff?style=for-the-badge&logoColor=0a0e27&labelColor=0a0e27" alt="Live Demo"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-0969da?style=for-the-badge&logoColor=e6edf3&labelColor=161b22" alt="Live Demo"/>
   </a>
-  <a href="#" style="transition: opacity 0.3s;">
-    <img src="https://img.shields.io/badge/SOURCE_CODE-00d9ff?style=for-the-badge&logo=github&logoColor=0a0e27&labelColor=0a0e27" alt="Source Code"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/SOURCE_CODE-0969da?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22" alt="Source Code"/>
   </a>
 </p>
 
@@ -393,19 +393,19 @@ A sophisticated portfolio platform showcasing professional work, technical capab
 
 <br/>
 
-![React](https://img.shields.io/badge/REACT-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0a0e27)
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0a0e27)
-![TailwindCSS](https://img.shields.io/badge/TAILWIND-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=0a0e27)
-![MongoDB](https://img.shields.io/badge/MONGODB-4EA94B?style=flat-square&logo=mongodb&logoColor=white&labelColor=0a0e27)
+![React](https://img.shields.io/badge/REACT-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=161b22)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=161b22)
+![TailwindCSS](https://img.shields.io/badge/TAILWIND-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=161b22)
+![MongoDB](https://img.shields.io/badge/MONGODB-4EA94B?style=flat-square&logo=mongodb&logoColor=white&labelColor=161b22)
 
 <br/><br/>
 
 <p>
-  <a href="#" style="transition: opacity 0.3s;">
-    <img src="https://img.shields.io/badge/LIVE_DEMO-00d9ff?style=for-the-badge&logoColor=0a0e27&labelColor=0a0e27" alt="Live Demo"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-0969da?style=for-the-badge&logoColor=e6edf3&labelColor=161b22" alt="Live Demo"/>
   </a>
-  <a href="#" style="transition: opacity 0.3s;">
-    <img src="https://img.shields.io/badge/SOURCE_CODE-00d9ff?style=for-the-badge&logo=github&logoColor=0a0e27&labelColor=0a0e27" alt="Source Code"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/SOURCE_CODE-0969da?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22" alt="Source Code"/>
   </a>
 </p>
 
@@ -426,18 +426,18 @@ An enterprise-grade desktop application engineered for comprehensive human resou
 
 <br/>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white&labelColor=0a0e27)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=0a0e27)
-![MySQL](https://img.shields.io/badge/MYSQL-005C84?style=flat-square&logo=mysql&logoColor=white&labelColor=0a0e27)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white&labelColor=161b22)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=161b22)
+![MySQL](https://img.shields.io/badge/MYSQL-005C84?style=flat-square&logo=mysql&logoColor=white&labelColor=161b22)
 
 <br/><br/>
 
 <p>
-  <a href="#" style="transition: opacity 0.3s;">
-    <img src="https://img.shields.io/badge/LIVE_DEMO-00d9ff?style=for-the-badge&logoColor=0a0e27&labelColor=0a0e27" alt="Live Demo"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-0969da?style=for-the-badge&logoColor=e6edf3&labelColor=161b22" alt="Live Demo"/>
   </a>
-  <a href="#" style="transition: opacity 0.3s;">
-    <img src="https://img.shields.io/badge/SOURCE_CODE-00d9ff?style=for-the-badge&logo=github&logoColor=0a0e27&labelColor=0a0e27" alt="Source Code"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/SOURCE_CODE-0969da?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22" alt="Source Code"/>
   </a>
 </p>
 
@@ -456,18 +456,18 @@ A comprehensive point-of-sale and inventory control solution designed for retail
 
 <br/>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white&labelColor=0a0e27)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=0a0e27)
-![SQL Server](https://img.shields.io/badge/SQL_SERVER-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white&labelColor=0a0e27)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white&labelColor=161b22)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=161b22)
+![SQL Server](https://img.shields.io/badge/SQL_SERVER-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white&labelColor=161b22)
 
 <br/><br/>
 
 <p>
-  <a href="#" style="transition: opacity 0.3s;">
-    <img src="https://img.shields.io/badge/LIVE_DEMO-00d9ff?style=for-the-badge&logoColor=0a0e27&labelColor=0a0e27" alt="Live Demo"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-0969da?style=for-the-badge&logoColor=e6edf3&labelColor=161b22" alt="Live Demo"/>
   </a>
-  <a href="#" style="transition: opacity 0.3s;">
-    <img src="https://img.shields.io/badge/SOURCE_CODE-00d9ff?style=for-the-badge&logo=github&logoColor=0a0e27&labelColor=0a0e27" alt="Source Code"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/SOURCE_CODE-0969da?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22" alt="Source Code"/>
   </a>
 </p>
 
@@ -821,7 +821,7 @@ When debugging issues, systematic approaches yield efficient resolutions. Reprod
 <tr>
 <td width="25%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/COMPREHENSIVE_SKILLS-00d9ff?style=for-the-badge&labelColor=0a0e27" alt="Skills"/>
+<img src="https://img.shields.io/badge/COMPREHENSIVE_SKILLS-0969da?style=for-the-badge&labelColor=161b22" alt="Skills"/>
 
 <br/><br/>
 
@@ -830,7 +830,7 @@ Technical versatility across multiple programming languages, frameworks, and sys
 </td>
 <td width="25%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/DESIGN_AWARENESS-7c3aed?style=for-the-badge&labelColor=0a0e27" alt="Design"/>
+<img src="https://img.shields.io/badge/DESIGN_AWARENESS-1f6feb?style=for-the-badge&labelColor=161b22" alt="Design"/>
 
 <br/><br/>
 
@@ -839,7 +839,7 @@ Understanding both technical constraints and user experience considerations faci
 </td>
 <td width="25%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/CLEAR_COMMUNICATION-00d9ff?style=for-the-badge&labelColor=0a0e27" alt="Communication"/>
+<img src="https://img.shields.io/badge/CLEAR_COMMUNICATION-0969da?style=for-the-badge&labelColor=161b22" alt="Communication"/>
 
 <br/><br/>
 
@@ -848,7 +848,7 @@ Strong communication and documentation practices ensure knowledge sharing and pr
 </td>
 <td width="25%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/CONTINUOUS_LEARNING-7c3aed?style=for-the-badge&labelColor=0a0e27" alt="Learning"/>
+<img src="https://img.shields.io/badge/CONTINUOUS_LEARNING-1f6feb?style=for-the-badge&labelColor=161b22" alt="Learning"/>
 
 <br/><br/>
 
@@ -920,61 +920,6 @@ Delivering work that meets or exceeds professional standards rather than accepti
 
 <div align="center">
 
-## GITHUB ANALYTICS
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zeraphyx-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0e27&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=15" alt="GitHub Statistics"/>
-</td>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeraphyx-dev&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0a0e27&title_color=00d9ff&text_color=c9d1d9&border_radius=15" alt="Top Languages"/>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=zeraphyx-dev&theme=radical&hide_border=true&background=0a0e27&stroke=00d9ff&ring=00d9ff&fire=7c3aed&currStreakLabel=00d9ff&border_radius=15" alt="Contribution Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zeraphyx-dev&theme=react-dark&hide_border=true&bg_color=0a0e27&color=00d9ff&line=00d9ff&point=7c3aed&area=true&border_radius=15" alt="Contribution Graph"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zeraphyx-dev&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
-<!-- PREMIUM DIVIDER -->
-<div align="center">
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
 
 ## CALL TO ACTION
 
@@ -984,7 +929,7 @@ Delivering work that meets or exceeds professional standards rather than accepti
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=70&lines=I+welcome+collaboration+opportunities+with+fellow+developers;Let+us+build+innovative+solutions+that+create+lasting+impact;Connect+with+me+through+any+of+the+channels+below" alt="Connect Message"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=70&lines=I+WELCOME+COLLABORATION+OPPORTUNITIES+WITH+FELLOW+DEVELOPERS;LET+US+BUILD+INNOVATIVE+SOLUTIONS+THAT+CREATE+LASTING+IMPACT;CONNECT+WITH+ME+THROUGH+ANY+OF+THE+CHANNELS+BELOW" alt="Connect Message"/>
 
 <br/><br/>
 
@@ -992,30 +937,30 @@ Delivering work that meets or exceeds professional standards rather than accepti
 <tr>
 <td align="center" width="25%">
 <a href="https://wa.me/94725486679">
-<img src="https://img.shields.io/badge/WHATSAPP-00d9ff?style=for-the-badge&logo=whatsapp&logoColor=0a0e27&labelColor=0a0e27" alt="WhatsApp"/>
+<img src="https://img.shields.io/badge/WHATSAPP-0969da?style=for-the-badge&logo=whatsapp&logoColor=e6edf3&labelColor=161b22" alt="WhatsApp"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Direct_Messaging-00d9ff?style=flat-square&labelColor=0a0e27" alt="WhatsApp Label"/>
+<img src="https://img.shields.io/badge/Direct_Messaging-0969da?style=flat-square&labelColor=161b22" alt="WhatsApp Label"/>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="mailto:chamikanuwan715@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-7c3aed?style=for-the-badge&logo=gmail&logoColor=0a0e27&labelColor=0a0e27" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-1f6feb?style=for-the-badge&logo=gmail&logoColor=e6edf3&labelColor=161b22" alt="Email"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Professional_Correspondence-7c3aed?style=flat-square&labelColor=0a0e27" alt="Email Label"/>
+<img src="https://img.shields.io/badge/Professional_Correspondence-1f6feb?style=flat-square&labelColor=161b22" alt="Email Label"/>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://zeraphyx.dev">
-<img src="https://img.shields.io/badge/PORTFOLIO-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=0a0e27&labelColor=0a0e27" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-0969da?style=for-the-badge&logo=google-chrome&logoColor=e6edf3&labelColor=161b22" alt="Portfolio"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/View_Complete_Work-00d9ff?style=flat-square&labelColor=0a0e27" alt="Portfolio Label"/>
+<img src="https://img.shields.io/badge/View_Complete_Work-0969da?style=flat-square&labelColor=161b22" alt="Portfolio Label"/>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://linkedin.com/in/chamikanuwan">
-<img src="https://img.shields.io/badge/LINKEDIN-7c3aed?style=for-the-badge&logo=linkedin&logoColor=0a0e27&labelColor=0a0e27" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-1f6feb?style=for-the-badge&logo=linkedin&logoColor=e6edf3&labelColor=161b22" alt="LinkedIn"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Professional_Network-7c3aed?style=flat-square&labelColor=0a0e27" alt="LinkedIn Label"/>
+<img src="https://img.shields.io/badge/Professional_Network-1f6feb?style=flat-square&labelColor=161b22" alt="LinkedIn Label"/>
 </a>
 </td>
 </tr>
@@ -1038,43 +983,43 @@ Delivering work that meets or exceeds professional standards rather than accepti
 
 <div align="center">
 
-<!-- FOOTER SECTION -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,11,20,24&height=220&section=footer"/>
+<!-- FOOTER SECTION WITH VISIBLE BLUE WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0969da&height=220&section=footer"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=80&lines=Building+The+Future+One+Commit+At+A+Time;Thank+You+For+Visiting+My+Profile" alt="Footer Message"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=80&lines=BUILDING+THE+FUTURE+ONE+COMMIT+AT+A+TIME;THANK+YOU+FOR+VISITING+MY+PROFILE" alt="Footer Message"/>
 
 <br/><br/>
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/CRAFTED_WITH-7c3aed?style=for-the-badge&labelColor=0a0e27" alt="Crafted"/>
+<img src="https://img.shields.io/badge/CRAFTED_WITH-1f6feb?style=for-the-badge&labelColor=161b22" alt="Crafted"/>
 <br/>
-<img src="https://img.shields.io/badge/Dedication-7c3aed?style=flat-square&labelColor=0a0e27" alt="Dedication"/>
+<img src="https://img.shields.io/badge/Dedication-1f6feb?style=flat-square&labelColor=161b22" alt="Dedication"/>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/POWERED_BY-00d9ff?style=for-the-badge&labelColor=0a0e27" alt="Powered"/>
+<img src="https://img.shields.io/badge/POWERED_BY-0969da?style=for-the-badge&labelColor=161b22" alt="Powered"/>
 <br/>
-<img src="https://img.shields.io/badge/Innovation-00d9ff?style=flat-square&labelColor=0a0e27" alt="Innovation"/>
+<img src="https://img.shields.io/badge/Innovation-0969da?style=flat-square&labelColor=161b22" alt="Innovation"/>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/DESIGNED_FOR-7c3aed?style=for-the-badge&labelColor=0a0e27" alt="Designed"/>
+<img src="https://img.shields.io/badge/DESIGNED_FOR-1f6feb?style=for-the-badge&labelColor=161b22" alt="Designed"/>
 <br/>
-<img src="https://img.shields.io/badge/Excellence-7c3aed?style=flat-square&labelColor=0a0e27" alt="Excellence"/>
+<img src="https://img.shields.io/badge/Excellence-1f6feb?style=flat-square&labelColor=161b22" alt="Excellence"/>
 </td>
 </tr>
 </table>
 
 <br/>
 
-[![Professional Profile](https://img.shields.io/badge/PROFESSIONAL_PROFILE-00d9ff?style=for-the-badge&logo=github&logoColor=0a0e27&labelColor=0a0e27)](https://github.com/zeraphyx-dev)
-[![Portfolio Website](https://img.shields.io/badge/PORTFOLIO_WEBSITE-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=0a0e27&labelColor=0a0e27)](https://zeraphyx.dev)
+[![Professional Profile](https://img.shields.io/badge/PROFESSIONAL_PROFILE-0969da?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22)](https://github.com/zeraphyx-dev)
+[![Portfolio Website](https://img.shields.io/badge/PORTFOLIO_WEBSITE-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=e6edf3&labelColor=161b22)](https://zeraphyx.dev)
 
 <br/>
 
-**Last Updated: November 2025**
+**LAST UPDATED: NOVEMBER 2025**
 
 <br/>
 
